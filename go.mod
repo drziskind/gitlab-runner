@@ -2,8 +2,6 @@ module gitlab.com/gitlab-org/gitlab-runner
 
 go 1.24.6
 
-toolchain go1.24.6
-
 require (
 	cloud.google.com/go/compute/metadata v0.5.0
 	cloud.google.com/go/iam v1.1.13
